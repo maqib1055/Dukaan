@@ -1,0 +1,16 @@
+
+**Developed by Syed Anus**
+
+**Recommended PHP Version 5.6, 7.4**
+
+**Admin Login Details**
+
+Email   : admin@mail.com
+Password: Password@123
+
+**Company Verification should be done by accessing the database and changing its active status**
+
+**Company Login Details**
+
+Email   : syed778@gmai.com
+Password: anas
